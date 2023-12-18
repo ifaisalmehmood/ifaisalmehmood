@@ -6,6 +6,5 @@
 
 🌟 Let's embark on this adventure together, and discover the endless possibilities of these incredible technologies!
 
-**My Skills**
 
 ![My Skills](https://skillicons.dev/icons?i=html,django,py)
