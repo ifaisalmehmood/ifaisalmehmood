@@ -5,3 +5,5 @@
 💡 On my GitHub, you'll find my journey as I explore Python and Django, working on a variety of projects. I'll be sharing my code, experiments, and learning resources along the way. Feel free to explore, collaborate, and provide feedback.
 
 🌟 Let's embark on this adventure together, and discover the endless possibilities of these incredible technologies!
+
+[![My Skills](https://skillicons.dev/icons?i=js,django,py)]
