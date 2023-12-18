@@ -5,7 +5,7 @@
 🌟 On my GitHub, you'll find my journey as I explore Python and Django, working on a variety of projects. I'll be sharing my code, experiments, and learning resources along the way. Feel free to explore, collaborate, and provide feedback.
 
 
-![My Skills](https://skillicons.dev/icons?i=html,django,py)
+![My Skills](https://skillicons.dev/icons?i=django,py)
 
 
 Discord: ifaisalmehmood
